@@ -1,13 +1,11 @@
 Package: stupid1
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Title: Dummy Package To Demonstrate Lexical Soping (I)
+Version: 0.0.0.9002
+Authors@R:
+    person(given = "Kosmas",
+           family = "Hench",
+           role = c("aut", "cre"))
+Description: Provides two dummy objects and one dummy function.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
